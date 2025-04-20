@@ -6,4 +6,4 @@ def hitung_kata(teks):
 teks_pengguna = input("Masukkan kalimat atau paragraf: ")
 jumlah = hitung_kata(teks_pengguna)
 
-print(f"Jumlah kata dalam teks: {jumlah}") #Copy Paste as One Line
+print(f"Jumlah kata dalam teks: {jumlah}") #Paste as One Line
